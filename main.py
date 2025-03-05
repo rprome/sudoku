@@ -3,8 +3,7 @@ CSC 242 Project 2: Source Code
 Authors: Rizouana Prome, Shafayet Fahim
 Submission Date: March 3rd, 2025
 Description: This .py file serves as the source code for a Sudoku solver.
-Note: To run our program, use "python sudoku_solver.py <test_case.txt>"; it'll
-detect the .txt file as the second argument (argv[1]).
+Note: To run our program, use "python sudoku_solver.py <test_case.txt>".
 """
 
 from collections import deque
